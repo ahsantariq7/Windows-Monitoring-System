@@ -1,6 +1,5 @@
 Certainly! Here's a README.md file with the provided information:
 
-```markdown
 # Windows Monitoring System
 
 ## Introduction
